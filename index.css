@@ -234,7 +234,7 @@ img{
 
 .modal {
   position:fixed;
-  background-color: black;
+  background-color: rgba(14, 13, 13, 0.96);;
   color: #fff;
   padding: 40px;
   border: 3px solid #026e2f;
@@ -243,7 +243,9 @@ img{
   gap: 80px;
   align-items: center;
   width: 90%;
-  max-width: 500px;
+  /* max-width: 500px; */
+  top: 25%;
+  left: 5%;
 }
 
 .modal-header {
