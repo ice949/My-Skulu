@@ -1,7 +1,7 @@
 const homePageData = () => {
     const homePage = document.querySelector('#list');
     const data = document.createElement('h1');
-    data.textContent = "WELCOME TO ST. PATRICK'S MAZABUKA";
+    data.textContent = "WELCOME TO MY SKULU";
     const odata = document.createElement('div');
     odata.id = 'book-list';
     odata.classList.add('book-list')
@@ -18,7 +18,7 @@ const homePageData = () => {
     const odata2 = document.createElement('div');
     odata2.className = 'intro-content';
     odata2.innerHTML = `
-      <h2>St. Patrick's Secondary School</h2>
+      <h2>MY SKULU Secondary School</h2>
       <p>
         Located in the Southern province of Zambia, in a sweet town called
         Mazabuka. This is one of the best schools in the province and the
