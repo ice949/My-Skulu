@@ -294,6 +294,7 @@ img{
   background-color: blue;
 }
 
+
 .main-cont {
   width: 90%;
   display: flex;
@@ -325,6 +326,37 @@ img{
   font-size: 30px;
 }
 
+.cats-container {
+  display: flex;
+}
+
+.library-menu {
+  width: 20%;
+  max-width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  /* padding: 20px; */
+  /* From https://css.glass */
+background: rgba(14, 13, 13, 0.2);
+/* border-radius: 16px; */
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(14, 13, 13, 0.3);
+text-align: center;
+}
+
+.name-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px 5px;
+  border: 1px solid;
+  width: 100%;
+}
+
 
 @media screen and (max-width: 767px) {
   .navs {
@@ -346,6 +378,12 @@ img{
     justify-content: space-between;
     margin-right: 0;
   }
+}
+
+.active2 {
+  background-color: blue;
+  /* border-radius: 16px; */
+  /* border: 1px solid #fff; */
 }
 
 .none {
