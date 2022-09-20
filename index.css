@@ -10,9 +10,10 @@ body {
   width: 100%;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   align-items: center;
   background-color: #d6e9ec;
-  height: auto;
+  min-height: 100vh;
 }
 
 header {
@@ -246,6 +247,7 @@ img{
   /* max-width: 500px; */
   top: 25%;
   left: 5%;
+  height: 50%;
 }
 
 .modal-header {
