@@ -333,6 +333,7 @@ img{
 .library-menu {
   width: 20%;
   max-width: 150px;
+  max-height: 540px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -356,6 +357,24 @@ text-align: center;
   border: 1px solid;
   width: 100%;
 }
+
+.library-data {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+}
+
+.subject {
+  display: flex;
+  flex-direction: column;
+}
+
+.videos-data {
+  width: 100%;
+  display: flex;
+  overflow-x: scroll;
+}
+
 
 
 @media screen and (max-width: 767px) {

@@ -32,6 +32,61 @@ const libraryPageData2 = () => {
            </div>
          </div>
          <div class="library-data">
+           <div class="subject"><h3>Mathematics</h3>
+           <div class="videos-data">
+              <div class="video-tabs">
+              <iframe width="260" height="145" src="https://www.youtube.com/embed/jn4KLmBwOj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Mensuration</p>
+              </div>
+              <div class="video-tabs">
+              <iframe width="260" height="145" src="https://www.youtube.com/embed/jn4KLmBwOj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Mensuration</p>
+              </div>
+              <div class="video-tabs">
+              <iframe width="260" height="145" src="https://www.youtube.com/embed/jn4KLmBwOj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Mensuration</p>
+              </div>
+              <div class="video-tabs">
+              <iframe width="260" height="145" src="https://www.youtube.com/embed/jn4KLmBwOj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Mensuration</p>
+              </div></div>
+              <div class="subject"><h3>Science</h3>
+           <div class="videos-data">
+              <div class="video-tabs">
+              <iframe width="260" height="145" src="https://www.youtube.com/embed/jn4KLmBwOj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Reproduction</p>
+              </div>
+              <div class="video-tabs">
+              <iframe width="260" height="145" src="https://www.youtube.com/embed/jn4KLmBwOj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Mensuration</p>
+              </div>
+              <div class="video-tabs">
+              <iframe width="260" height="145" src="https://www.youtube.com/embed/jn4KLmBwOj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Mensuration</p>
+              </div>
+              <div class="video-tabs">
+              <iframe width="260" height="145" src="https://www.youtube.com/embed/jn4KLmBwOj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Mensuration</p>
+              </div></div>
+              <div class="subject"><h3>Biology</h3>
+           <div class="videos-data">
+              <div class="video-tabs">
+              <iframe width="260" height="145" src="https://www.youtube.com/embed/jn4KLmBwOj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Mensuration</p>
+              </div>
+              <div class="video-tabs">
+              <iframe width="260" height="145" src="https://www.youtube.com/embed/jn4KLmBwOj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Mensuration</p>
+              </div>
+              <div class="video-tabs">
+              <iframe width="260" height="145" src="https://www.youtube.com/embed/jn4KLmBwOj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Mensuration</p>
+              </div>
+              <div class="video-tabs">
+              <iframe width="260" height="145" src="https://www.youtube.com/embed/jn4KLmBwOj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Mensuration</p>
+              </div></div>
+           </div>
          </div>
       </div>`;
     libraryPage1.append(pdata1)
