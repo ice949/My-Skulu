@@ -8,27 +8,27 @@ const libraryPageData2 = () => {
          <div class="library-menu">
            <div class="name-icon active2">
              <p>Video Lessons</p>
-             <div class="vicon"><i class="fa-solid fa-photo-film"></i></i></div>
+             <div class="vicon"><i class="fa-solid fa-photo-film"></i></div>
            </div>
            <div class="name-icon">
-             <p>Video Lessons</p>
-             <div class="vicon"><i class="fa-solid fa-photo-film"></i></i></div>
+             <p>Books</p>
+             <div class="vicon"><i class="fa-solid fa-book"></i></div>
            </div>
            <div class="name-icon">
-             <p>Video Lessons</p>
-             <div class="vicon"><i class="fa-solid fa-photo-film"></i></i></div>
+             <p>Assigns</p>
+             <div class="vicon"><i class="fa-solid fa-a"></i></div>
            </div>
            <div class="name-icon">
-             <p>Video Lessons</p>
-             <div class="vicon"><i class="fa-solid fa-photo-film"></i></i></div>
+             <p>Past papers</p>
+             <div class="vicon"><i class="fa-sharp fa-solid fa-scroll"></i></div>
            </div>
            <div class="name-icon">
-             <p>Video Lessons</p>
-             <div class="vicon"><i class="fa-solid fa-photo-film"></i></i></div>
+             <p>Quizzes</p>
+             <div class="vicon"><i class="fa-brands fa-quinscape"></i></div>
            </div>
            <div class="name-icon">
-             <p>Video Lessons</p>
-             <div class="vicon"><i class="fa-solid fa-photo-film"></i></i></div>
+             <p>Other</p>
+             <div class="vicon"><i class="fa-sharp fa-solid fa-flask"></i></div>
            </div>
          </div>
          <div class="library-data">
