@@ -259,29 +259,29 @@ const libraryPageData2 = () => {
 
 
          <div class="books-page none" id="books-page">
-            <div class"sub"><h3>Mathematics</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
-            <div class"sub"><h3>Science</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
-            <div class"sub"><h3>Biology</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
-            <div class"sub"><h3>R.E</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
-            <div class"sub"><h3>C.E</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
-            <div class"sub"><h3>D&T</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
-            <div class"sub"><h3>CS</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
-            <div class"sub"><h3>Commerce</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
-            <div class"sub"><h3>Accounts</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
-            <div class"sub"><h3>English</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
+            <div class="sub"><h3>Mathematics</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
+            <div class="sub"><h3>Science</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
+            <div class="sub"><h3>Biology</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
+            <div class="sub"><h3>R.E</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
+            <div class="sub"><h3>C.E</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
+            <div class="sub"><h3>D&T</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
+            <div class="sub"><h3>CS</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
+            <div class="sub"><h3>Commerce</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
+            <div class="sub"><h3>Accounts</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
+            <div class="sub"><h3>English</h3><div class="arrowd"><i class="fa-solid fa-arrow-right"></i></div></div>
          </div>
 
 
-         <div class"quizes-page none" id="quizes-page"></div>
+         <div class="quizes-page none" id="quizes-page"></div>
 
 
-         <div class"assigns-page none" id="assigns-page"></div>
+         <div class="assigns-page none" id="assigns-page"></div>
 
 
-         <div class"p-papers-page none" id="p-papers-page"></div>
+         <div class="p-papers-page none" id="p-papers-page"></div>
 
 
-         <div class"others-page none" id="others-page"></div>
+         <div class="others-page none" id="others-page"></div>
 
 
 

@@ -413,6 +413,7 @@ text-align: center;
 
 .sub {
   display: flex;
+  justify-content: space-between;
   padding: 20px;
   background-color: #026e2f;
 }
