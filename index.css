@@ -406,6 +406,17 @@ text-align: center;
   }
 }
 
+.books-page {
+  display: flex;
+  flex-direction: column;
+}
+
+.sub {
+  display: flex;
+  padding: 20px;
+  background-color: #026e2f;
+}
+
 .active2 {
   background-color: green;
   /* border-radius: 16px; */
