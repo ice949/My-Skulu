@@ -382,6 +382,22 @@ text-align: center;
   overflow: scroll;
 }
 
+.p-papers-page {
+  display: flex;
+  flex-direction: column;
+}
+
+.pp1, .pp2 {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+
+.content1, .content2 {
+  display: flex;
+  flex-direction: column;
+}
+
 
 
 @media screen and (max-width: 767px) {

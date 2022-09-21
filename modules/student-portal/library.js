@@ -278,7 +278,25 @@ const libraryPageData2 = () => {
          <div class="assigns-page none" id="assigns-page"><button style="background-color:red;">comming soon</button></div>
 
 
-         <div class="p-papers-page none" id="p-papers-page"><button style="background-color:red;">comming soon</button></div>
+         <div class="p-papers-page none" id="p-papers-page">
+            <div class="pp1" id="ecz">
+               <h4>ECZ Past Exam Papers</h4>
+               <div class="content1">
+                  <a href="#">Grade 9 </a>
+                  <a href="#">Grade 12 </a>
+               </div>
+            </div>
+            <div class="pp2" id="school">
+               <h4>School Past Exam Papers</h4>
+               <div class="content2">
+                  <a href="#">Grade 8 </a>
+                  <a href="#">Grade 9 </a>
+                  <a href="#">Grade 10 </a>
+                  <a href="#">Grade 11 </a>
+                  <a href="#">Grade 12 </a>
+               </div>
+            </div>
+         </div>
 
 
          <div class="others-page none" id="others-page"><button style="background-color:red;">comming soon</button></div>
