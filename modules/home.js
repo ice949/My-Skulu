@@ -25,7 +25,20 @@ const homePageData = () => {
         country at large with over 1000 students and more than 50 staff. It is definitely the best place every student can be come try us
       </p>
       <h3>Announcements</h3>
-      <div class="g-announcements"></div>
+      <div class="g-announcements">
+        <h4>Opening of School</h4>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+         Exercitationem velit quibusdam, illum aspernatur
+          . </p><hr /><br />
+          <h4>Opening of School</h4>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+         Exercitationem velit quibusdam, illum aspernatur
+          . </p><hr /><br />
+          <h4>Opening of School</h4>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+         Exercitationem velit quibusdam, illum aspernatur
+          . </p><hr /><br />
+      </div>
       <h3>Word from School Manager</h3>
       <iframe width="260" height="215" src="https://www.youtube.com/embed/Cs6DoA2Lpsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     homePage.append(data);
