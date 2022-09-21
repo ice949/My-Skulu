@@ -12,7 +12,7 @@ const staffPass = document.querySelector("#staff-pass");
 
 studentLog.addEventListener("submit", (e) => {
   e.preventDefault();
-  if (userId.value === "20220001" && userPass.value === "Chichiice.") {
+  if (userId.value === "20220001" && userPass.value === "Chichi") {
     window.open("student.html");
   } else {
     modalPage.classList.remove("none");
