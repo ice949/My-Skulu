@@ -367,12 +367,15 @@ text-align: center;
 .subject {
   display: flex;
   flex-direction: column;
+  /* border: 2px solid; */
+  padding: 10px;
 }
 
 .videos-data {
   width: 100%;
   display: flex;
   overflow-x: scroll;
+  overflow: scroll;
 }
 
 

@@ -9,10 +9,10 @@ const homePageData = () => {
       <div class="container">
         <!--Area of the images-->
         <div class="wrapper">
-          <img src="./images/babe.jpg" />
-          <img src="./images/enerst.jpeg" />
-          <img src="./images/Justine.jpeg" />
-          <img src="./images/enerst.jpeg" />
+          <img src="./images/school1.jpeg" />
+          <img src="./images/school2.jpg" />
+          <img src="./images/school3.jpeg" />
+          <img src="./images/school4.jpeg" />
         </div>
       </div>`
     const odata2 = document.createElement('div');
