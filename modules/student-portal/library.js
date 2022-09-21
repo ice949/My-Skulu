@@ -272,16 +272,16 @@ const libraryPageData2 = () => {
          </div>
 
 
-         <div class="quizes-page none" id="quizes-page"></div>
+         <div class="quizes-page none" id="quizes-page"><button style="background-color:red;">comming soon</button></div>
 
 
-         <div class="assigns-page none" id="assigns-page"></div>
+         <div class="assigns-page none" id="assigns-page"><button style="background-color:red;">comming soon</button></div>
 
 
-         <div class="p-papers-page none" id="p-papers-page"></div>
+         <div class="p-papers-page none" id="p-papers-page"><button style="background-color:red;">comming soon</button></div>
 
 
-         <div class="others-page none" id="others-page"></div>
+         <div class="others-page none" id="others-page"><button style="background-color:red;">comming soon</button></div>
 
 
 
