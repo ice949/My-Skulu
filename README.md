@@ -1,19 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# My Skulu
 
-> Description the project.
+> A platform for digital Education.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- JavaScript
+- 
+- Linters
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[My Skulu Demo](https://ice949.github.io/My-Skulu/)
 
 
 ## Getting Started
@@ -40,17 +40,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Justine Imasiku**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ice949](https://github.com/ice949)
+- Twitter: [@justine_imasiku](https://twitter.com/justine_imasiku)
+- LinkedIn: [Justine Imasiku](https://linkedin.com/in/justine_imasiku)
 
 ## 🤝 Contributing
 
