@@ -6,20 +6,20 @@ const staffPost = () => {
     commentForm.classList.add('comment-form');
     commentForm.id = 1;
     const formHeading = document.createElement('h3');
-    formHeading.innerHTML = 'Add a comment';
+    formHeading.innerHTML = 'Make Announcement';
     const formInput = document.createElement('input');
     formInput.classList.add('comment-user');
     formInput.setAttribute('type', 'text');
-    formInput.placeholder = 'Your name';
+    formInput.placeholder = 'Title';
     formInput.id = 'name';
     const textArea = document.createElement('textarea');
     textArea.classList.add('user-comments');
     textArea.setAttribute('name', 'comment');
-    textArea.placeholder = 'Your insights';
+    textArea.placeholder = 'Descrription';
     const formButton = document.createElement('button');
     formButton.setAttribute('type', 'submit');
     formButton.classList.add('submit-Btn');
-    formButton.innerHTML = 'Comment';
+    formButton.innerHTML = 'Post';
   
     commentForm.appendChild(formHeading);
     commentForm.appendChild(formInput);

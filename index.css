@@ -399,6 +399,10 @@ text-align: center;
   flex-direction: column;
 }
 
+.user-comments {
+  padding: 30px;
+}
+
 
 
 @media screen and (max-width: 767px) {
