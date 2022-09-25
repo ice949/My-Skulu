@@ -43,7 +43,5 @@ const staffPost = () => {
         // const comments = commentsContainer;
         addComments(commentObj, commentId);
       });
-    //   getComments(commentForm.id, commentsContainer);
-    console.log(commentObj);
     };
 export default staffPost;
