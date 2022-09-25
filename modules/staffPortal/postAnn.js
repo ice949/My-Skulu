@@ -29,7 +29,7 @@ const staffPost = () => {
 
     commentForm.addEventListener('submit', (e) => {
         e.preventDefault();
-        const commentId = 1;
+        const commentId = 19;
         const name = formInput.value;
         const commentValue = textArea.value;
         const commentObj = {

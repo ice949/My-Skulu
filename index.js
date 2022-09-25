@@ -11,6 +11,6 @@ loginPageData();
 headerPageData();
 clickEvents();
 switchPage();
-getComments(1)
+getComments(19)
 
 

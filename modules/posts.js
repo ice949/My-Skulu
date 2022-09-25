@@ -14,7 +14,7 @@ const getComments = async (ID) => {
   data.forEach((comment) => {
     const eachComment = document.createElement('li');
     eachComment.classList.add('eachcomment');
-    eachComment.innerHTML = `${comment.creation_date} ${comment.username}:${comment.comment}`;
+    eachComment.innerHTML = `<h4>${comment.username}</h4><span>${comment.creation_date} </span><p>${comment.comment}</p><button style="margin-bottom:8px; padding:8px;">Read More</button>`;
     CONTAINER.append(eachComment);
   });
   return data;
