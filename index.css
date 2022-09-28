@@ -13,16 +13,24 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  background-color: #d6e9ec;
+  /* background-color: #d6e9ec; */
   min-height: 100vh;
+  background-image: url(images/school1.jpeg);
+  background-repeat: no-repeat; 
+  /* background-color: rgba(43, 109, 205, 0.22); */
+  background-size: 100% 50vh;
 }
+
+h1 {
+  color: orangered;
+  font-size: 30px;
+}
+
 
 header {
   width: 100%;
   display: flex;
   flex-direction: column;
-  /* position: fixed; */
-  /* margin-bottom: 60px; */
 }
 
 .navbar {
@@ -74,11 +82,9 @@ section {
 
 form {
   min-width: 300px;
-  /* width: 600px; */
   display: flex;
   flex-direction: column;
   gap: 20px;
-  /* margin-top: 80px; */
 }
 
 .inputs {
@@ -96,8 +102,6 @@ input {
   border: 2px solid #000;
   color: #000;
   border-radius: 3px;
-
-  /* background-color: transparent; */
 }
 
 input::placeholder {
@@ -157,8 +161,6 @@ button {
 
 .contacts {
   font-size: 25px;
-
-  /* margin-top: 90px; */
 }
 
 .contacts h2 {
@@ -269,6 +271,25 @@ img{
   padding: 30px;
   max-width: 1000px;
   width:100%
+}
+
+.g-announcements {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.eachcomment {
+  /* From https://css.glass */
+background: rgba(214, 104, 85, 0.22);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(43, 109, 205, 0.3);
+padding: 10px;
+display: flex;
+flex-direction: column;
 }
 
 .footer {
