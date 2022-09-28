@@ -11,7 +11,7 @@ const resultsPageData2 = () => {
           <div class="arrow2"><i class="fa-solid fa-arrow-up"></i></i></div>
        </div>
        <div class="other-data">
-          <a href="#">Grade Eight Term 1</a>
+          <a href=".../Sample_SSE_report.pdf">Grade Eight Term 1</a>
           <a href="#">Grade Eight Term 2</a>
           <a href="#">Grade Eight Term 3</a>
        </div>
