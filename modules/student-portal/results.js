@@ -11,9 +11,9 @@ const resultsPageData2 = () => {
           <div class="arrow2"><i class="fa-solid fa-arrow-up"></i></i></div>
        </div>
        <div class="other-data">
-          <a href=".../Sample_SSE_report.pdf">Grade Eight Term 1</a>
-          <a href="#">Grade Eight Term 2</a>
-          <a href="#">Grade Eight Term 3</a>
+          <a href="../Sample_SSE_report.pdf">Grade Eight Term 1</a>
+          <a href="../Sample_SSE_report.pdf">Grade Eight Term 2</a>
+          <a href="../Sample_SSE_report.pdf">Grade Eight Term 3</a>
        </div>
     </div>
     <div class="grade-container">
@@ -23,8 +23,8 @@ const resultsPageData2 = () => {
           <div class="arrow21 none"><i class="fa-solid fa-arrow-up"></i></i></div>
        </div>
        <div class="other-data1 none">
-          <a href="#">Grade Nine Term 1</a>
-          <a href="#">Grade Nine Term 2</a>
+          <a href="../Sample_SSE_report.pdf">Grade Nine Term 1</a>
+          <a href="../Sample_SSE_report.pdf">Grade Nine Term 2</a>
        </div>
     </div>
     <div class="grade-container">
@@ -46,9 +46,9 @@ const resultsPageData2 = () => {
           <div class="arrow23 none"><i class="fa-solid fa-arrow-up"></i></i></div>
        </div>
        <div class="other-data3 none">
-          <a href="#">Grade Eleven Term 1</a>
-          <a href="#">Grade Eleven Term 2</a>
-          <a href="#">Grade Eleven Term 3</a>
+          <a href="../Sample_SSE_report.pdf">Grade Eleven Term 1</a>
+          <a href="../Sample_SSE_report.pdf">Grade Eleven Term 2</a>
+          <a href="../Sample_SSE_report.pdf">Grade Eleven Term 3</a>
        </div>
     </div>
     <div class="grade-container">
@@ -58,8 +58,8 @@ const resultsPageData2 = () => {
           <div class="arrow24 none"><i class="fa-solid fa-arrow-up"></i></i></div>
        </div>
        <div class="other-data4 none">
-          <a href="#">Grade Twelve Term 1</a>
-          <a href="#">Grade Twelve Term 2</a>
+          <a href="../Sample_SSE_report.pdf">Grade Twelve Term 1</a>
+          <a href="../Sample_SSE_report.pdf">Grade Twelve Term 2</a>
        </div>
     </div>`;
   resultsPage1.append(pdata1)

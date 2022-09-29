@@ -3,7 +3,7 @@ const loginPageData = () => {
     const pdata1 = document.createElement('div');
     pdata1.innerHTML = `<div class="login-page">
     <form class="student student-form">
-      <h4>Login As Student</h4>
+      <h4 style="color: green;">Login As Student</h4>
       <input
         type="number"
         id="id"
@@ -21,7 +21,7 @@ const loginPageData = () => {
       <button type="submit" class="btn">Login</button>
     </form>
     <form class="staff staff-form none">
-      <h4>Login As Staff</h4>
+      <h4 style="color: green;">Login As Staff</h4>
       <input
         type="text"
         id="username"
