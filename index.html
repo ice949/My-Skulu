@@ -4,21 +4,184 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My skulu</title>
-    <link rel="stylesheet" href="./index.css" />
-    <script src="https://kit.fontawesome.com/bb26425209.js" crossorigin="anonymous"></script>
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="http://fonts.cdnfonts.com/css/cocogoose?styles=44178"
+      rel="stylesheet"
+    />
+    <title>my skulu</title>
   </head>
   <body>
-    <header id="header">
+    <header>
+      <nav class="navbar">
+        <ul class="navbarlist">
+          <li><i class="fab fa-facebook-f"></i></li>
+          <li><i class="fab fa-twitter"></i></li>
+          <li>English</li>
+          <li>My Page</li>
+          <li>Logout</li>
+        </ul>
+      </nav>
+      <div class="toggle-Menu">
+        <div class="toggleMenu">
+          <i class="fas fa-bars" id="humbergar"></i>
+        </div>
+        <!-- <a href="index.html"
+          ><h5 class="toplog">My Skulu</h5></a> -->
+
+        <a href="index.html"
+          ><h2  class="topLogo">My Skulu</h2>
+        </a>
+        <nav class="navbar1">
+          <ul class="abtMenu">
+            <li><a href="about.html">About</a></li>
+            <li><a href="#Program">Program</a></li>
+            <li><a href="#Join">Join</a></li>
+            <li><a href="#Sponsor">Sponsor</a></li>
+            <li><a href="#News">News</a></li>
+            <li><a href="index.html" class="niicompaign">SKULU Compaign</a></li>
+          </ul>
+        </nav>
+        <nav class="mobileMenu">
+          <ul class="sideBar">
+            <li class="menu-cross">
+              <i class="fas fa-times hidecross" id="crossIcon"></i>
+            </li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="#Program">Program</a></li>
+            <li><a href="#Join">Join</a></li>
+          </ul>
+        </nav>
+      </div>
     </header>
-    <section class="list" id="list"></section>
-    <section class="add-books none" id="add-books">
-      <button style="background-color: red;">Coming Soon</button>
+    <section class="sec1">
+      <div class="homePage card1">
+        <h3 class="hello">"Hello Dear! Welcome To The"</h3>
+        <h1 class="title">NATIONAL'S NUMBER 1 DIGITAL SCHOOL</h1>
+        <div>
+          <p class="mainText">
+            An innovative fair on immerging technologies addressing <br> the Sustainable Development Goals 
+            <strong>SDGs</strong> <br>world wide will be taking place in October, in Lusaka.
+          </p>
+        </div>
+        <h2 class="date">2022.10.18(THU)~30(FRI)</h2>
+        <p class="location">@ Pamodzi Hotel ,Lusaka , Zambia.</p>
+      </div>
     </section>
-    <section class="contacts none" id="login"></section>
+
+    <section class="container1">
+      <h2>Current Schools</h2>
+      <hr class="line1" />
+      <div class="cardsc">
+        <div class="mainPragramCardsContainer">
+          <a href="st_patrick.html" class="mainProgramCard">
+            <div>
+              <img src="images1/st.p.jpeg" alt="icon program" class="iconProgram" />
+            </div>
+            <h4 class="mainProgramheader">St. Patrick's Secondary School Mazabuka</h4>
+            <!-- <p class="mainProgramtext">
+              Listen to speakers from various countries in Africa and learn
+              about the advantages of Hackers in residence solving real world
+              problems.
+            </p> -->
+          </a>
+
+          <div class="mainProgramCard">
+            <div>
+              <img src="exhibition.png" alt="icon program" class="iconProgram" />
+            </div>
+            <h4 class="mainProgramheader">Nakambala Secondary School, Mazabuka</h4>
+            <!-- <p class="mainProgramtext">
+              Let's meet innovators from the the Tech industry who share their
+              technogies to address challenges that Africa is facing.
+            </p> -->
+          </div>
+
+          <div class="mainProgramCard">
+            <div>
+              <img src="forum.jpeg" alt="forum" class="iconProgram" />
+            </div>
+            <h4 class="mainProgramheader">Nakambala Primary SChool, Mazabuka</h4>
+            <!-- <p class="mainProgramtext">
+              It's the time to share our opinions and thoughts with experts
+              about doing business in the new normal.
+            </p> -->
+          </div>
+
+          <div class="mainProgramCard">
+            <div>
+              <img src="workshop.jpeg" alt="workshop" class="iconProgram" />
+            </div>
+            <h4 class="mainProgramheader">Ice-berg Private School, Lusaka</h4>
+            <!-- <p class="mainProgramtext">
+              Use your abilities and imagination to make creations by using your
+              hand in open source.
+            </p> -->
+          </div>
+
+          <div class="mainProgramCard">
+            <div>
+              <img src="ignite.jpeg" alt="icon program" class="iconProgram" />
+            </div>
+            <h4 class="mainProgramheader">Quictos Boarding School, Monze</h4>
+            <!-- <p class="mainProgramtext">
+              Create opportunities to freely network with new normal business
+              around Africa.
+            </p> -->
+          </div>
+        </div>
+<div class="blik">
+        <button class="joinbtn" type="button">
+          Join My Skulu
+        </button>
+
+        <a class="btnEntireProgram" href="#">SEE ALL SCHOOLS</a>
+        </div>
+      </div>
+    </section>
+    <section class="container2">
+      <h2 class="featuredTitle">Team Behind</h2>
+      <hr class="line2" />
+
+      <div class="SpeakerSection"></div>
+    </section>
+    <section class="container4">
+      <div>
+        <h4 class="partnerText">Partner</h4>
+        <hr class="line2" />
+      </div>
+      <div class="partnersList">
+        <span class="doublegdp"><img src="/images/unicef.png" alt="UNICEF"></span>
+        <span class="doublegdp"><img src="./images/undp.png" alt="UNDP"></span>
+        <span class="doublegdp"><img src="./images/airtel.png" alt="NIKE"></span>
+        <span class="doublegdp"><img src="./images/zicta.png" alt="META"></span>
+        </div>
+    </section>
     <footer class="footer">
-      <p>Copyright Ice-berg 2022</p>
+      <div class="">
+        <img src="logo.png" alt="eventlogo" class="footerlogo" />
+      </div>
+      <div>
+        <p>
+          &copy;2022 My Skulu ZAMBIA<br />
+          NII-NATIONAL INNOVATION INNITIATIVE is an event that happens every year to source out startups <br>
+          that are business promising and scalable for funding so that they can be implented and start running
+         
+        </p>
+      </div>
     </footer>
-    <script type="module" src="./index.js"></script>
+
+    <script src="main.js"></script>
+    <script src="menu.js"></script>
   </body>
 </html>

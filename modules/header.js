@@ -2,7 +2,7 @@ const headerPageData = () => {
     const headerPage = document.querySelector('#header');
     const pdata1 = document.createElement('nav');
     pdata1.className = 'navbar';
-    pdata1.innerHTML = `<h2 class="logo" id="logo">My Skulu</h2>
+    pdata1.innerHTML = `<div class="logo" id="logo"><img src="./images1/st.p.jpeg" /></div>
     <ul class="navs">
       <li class="list-btn active" id="list-btn">HOME</li>
       <li class="add-book-btn" id="about-btn">

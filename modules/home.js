@@ -1,7 +1,7 @@
 const homePageData = () => {
     const homePage = document.querySelector('#list');
     const data = document.createElement('h1');
-    data.textContent = "WELCOME TO MY SKULU";
+    data.textContent = "WELCOME TO ST. PATRICKS";
     const odata = document.createElement('div');
     odata.id = 'book-list';
     odata.classList.add('book-list')
@@ -9,10 +9,10 @@ const homePageData = () => {
       <div class="container">
         <!--Area of the images-->
         <div class="wrapper">
-          <img src="./images/school1.jpeg" />
-          <img src="./images/school2.jpg" />
-          <img src="./images/school3.jpeg" />
-          <img src="./images/school4.jpeg" />
+          <img src="./images1/st3.jpeg" />
+          <img src="./images1/st10.jpeg" />
+          <img src="./images1/st7.jpeg" />
+          <img src="./images1/st8.jpeg" />
         </div>
       </div>`
     const odata2 = document.createElement('div');

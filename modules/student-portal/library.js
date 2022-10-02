@@ -27,7 +27,7 @@ const libraryPageData2 = () => {
              <div class="vicon"><i class="fa-brands fa-quinscape"></i></div>
            </div>
            <div class="name-icon" id="others">
-             <p>Other</p>
+             <p>Practicals</p>
              <div class="vicon"><i class="fa-sharp fa-solid fa-flask"></i></div>
            </div>
          </div>
@@ -282,18 +282,158 @@ const libraryPageData2 = () => {
             <div class="pp1" id="ecz">
                <h4>ECZ Past Exam Papers</h4>
                <div class="content1">
-                  <a href="#">Grade 9 </a>
-                  <a href="#">Grade 12 </a>
+               <div class="grade-container">
+                 <div class="main-data1">
+                    <h2 class="heading">Grade 9 Results</h2>
+                    <div class="arrow1"><i class="fa-solid fa-arrow-right"></i></div>
+                    <div class="arrow21 none"><i class="fa-solid fa-arrow-up"></i></i></div>
+                 </div>
+                 <div class="other-data1 none">
+                    <a href="../Sample_SSE_report.pdf">Grade Nine Term 1</a>
+                    <a href="../Sample_SSE_report.pdf">Grade Nine Term 2</a>
+                 </div>
+              </div>
+              <div class="grade-container">
+                <div class="main-data1">
+                 <h2 class="heading">Grade 9 Results</h2>
+                 <div class="arrow1"><i class="fa-solid fa-arrow-right"></i></div>
+                 <div class="arrow21 none"><i class="fa-solid fa-arrow-up"></i></i></div>
+               </div>
+               <div class="other-data1 none">
+                 <a href="../Sample_SSE_report.pdf">Grade Nine Term 1</a>
+                 <a href="../Sample_SSE_report.pdf">Grade Nine Term 2</a>
+               </div>
+             </div>
                </div>
             </div>
             <div class="pp2" id="school">
                <h4>School Past Exam Papers</h4>
                <div class="content2">
-                  <a href="#">Grade 8 </a>
-                  <a href="#">Grade 9 </a>
-                  <a href="#">Grade 10 </a>
-                  <a href="#">Grade 11 </a>
-                  <a href="#">Grade 12 </a>
+                  <div class="grd-8">
+                     <h4 id="click-d1">Grade 8 </h4>
+                     <div class="pdataa" id="pdata1">
+                        <h4>2020</h4>
+                        <h5>Mathematics</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>English</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>Science</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>Computer Studies</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+                     </div>
+                  </div>
+                  <div class="grd-8">
+                     <h4 id="click-d1">Grade 9 </h4>
+                     <div class="pdataa" id="pdata1">
+                        <h4>2020</h4>
+                        <h5>Mathematics</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>English</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>Science</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>Computer Studies</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+                     </div>
+                  </div>
+                  <div class="grd-8">
+                     <h4 id="click-d1">Grade 10</h4>
+                     <div class="pdataa" id="pdata1">
+                        <h4>2020</h4>
+                        <h5>Mathematics</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>English</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>Science</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>Computer Studies</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+                     </div>
+                  </div>
+                  <div class="grd-8">
+                     <h4 id="click-d1">Grade 11</h4>
+                     <div class="pdataa" id="pdata1">
+                        <h4>2020</h4>
+                        <h5>Mathematics</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>English</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>Science</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>Computer Studies</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+                     </div>
+                  </div>
+                  <div class="grd-8">
+                     <h4 id="click-d1">Grade 12</h4>
+                     <div class="pdataa" id="pdata1">
+                        <h4>2020</h4>
+                        <h5>Mathematics</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>English</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>Science</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+
+                        <h5>Computer Studies</h5>
+                        <a href="#">term 1</a>
+                        <a href="#">term 2</a>
+                        <a href="#">term 3</a>
+                     </div>
+                  </div>
                </div>
             </div>
          </div>
