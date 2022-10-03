@@ -17,6 +17,8 @@ studentLog.addEventListener("submit", (e) => {
   } else {
     modalPage.classList.remove("none");
   }
+  userId.value = "";
+  userPass.value = "";
 });
 
 staffLog.addEventListener("submit", (e) => {

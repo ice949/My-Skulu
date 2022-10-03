@@ -61,6 +61,16 @@ header {
   margin: 0 auto;
   align-items: center;
   justify-content: space-between;
+  color: #ec5242;
+}
+
+.toggle-Menu2 {
+  display: flex;
+  padding: 10px 20px 20px;
+  width: 100%;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .closemenu {
@@ -71,7 +81,7 @@ header {
 
 .toggleMenu i {
   font-size: 30px;
-  color: gray;
+  color: #ec5242;
   cursor: pointer;
   margin-bottom: 50px;
   width: 10%;
@@ -331,7 +341,7 @@ header {
 }
 
 .sec1 {
-  background: url("inno.jpeg");
+  background: url("./images1/school4.jpeg");
   background-size: 100% 100%;
   box-shadow: inset 0 0 0 2000px rgba(179, 169, 169, 0.438);
   width: 100%;
@@ -448,6 +458,7 @@ header {
   width: 95%;
   margin: 20px auto;
   gap: 32px;
+  padding: 15px;
 }
 
 .footerlogo {

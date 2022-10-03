@@ -18,7 +18,7 @@ body {
   background-image: url(images1/st1.jpeg);
   background-repeat: no-repeat; 
   /* background-color: rgba(43, 109, 205, 0.22); */
-  background-size: 100% 60vh;
+  background-size: 100% 100%;
 }
 
 h1 {
