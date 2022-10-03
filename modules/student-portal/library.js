@@ -272,7 +272,102 @@ const libraryPageData2 = () => {
          </div>
 
 
-         <div class="quizes-page none" id="quizes-page"><button style="background-color:red;">comming soon</button></div>
+         <div class="quizes-page none" id="quizes-page"><div class="full">
+         <h2>Math Quiz</h2>
+         <form class="question" id="num1">
+           <h3>Q1. 1 + 2 = ?</h3>
+           <p>a. 5</p>
+           <p>b. 3</p>
+           <p>c. 1</p>
+           <p>d. 12</p>
+           <input type="text" id="ans1" required />
+           <button type="submit">Next</button>
+         </form>
+         <form class="question none" id="num2">
+           <h3>Q2. -1 x -2 = ?</h3>
+           <p>a. -2</p>
+           <p>b. 2</p>
+           <p>c. -3</p>
+           <p>d. -3</p>
+           <input type="text" id="ans2" required />
+           <button type="submit">Next</button>
+         </form>
+         <form class="question none" id="num3">
+           <h3>Q3. 1 / 2 = ?</h3>
+           <p>a. No answer</p>
+           <p>b. 0.2</p>
+           <p>c. 0.5</p>
+           <p>d. 1.2</p>
+           <input type="text" id="ans3" required />
+           <button type="submit">Next</button>
+         </form>
+         <form class="question none" id="num4">
+           <h3>Q4. 1 + 2 x 3 / 1.5 = ?</h3>
+           <p>a. 5</p>
+           <p>b. 6</p>
+           <p>c. 1</p>
+           <p>d. 23</p>
+           <input type="text" id="ans4" required />
+           <button type="submit">Next</button>
+         </form>
+         <form class="question none" id="num5">
+           <h3>Q5. 1 + 2 = ?</h3>
+           <p>a. 5</p>
+           <p>b. 3</p>
+           <p>c. 1</p>
+           <p>d. 12</p>
+           <input type="text" id="ans5" required />
+           <button type="submit">Next</button>
+         </form>
+         <form class="question none" id="num6">
+           <h3>Q6. 1 + 2 = ?</h3>
+           <p>a. 5</p>
+           <p>b. 3</p>
+           <p>c. 1</p>
+           <p>d. 12</p>
+           <input type="text" id="ans6" required />
+           <button type="submit">Next</button>
+         </form>
+         <form class="question none" id="num7">
+           <h3>Q7. 1 + 2 = ?</h3>
+           <p>a. 5</p>
+           <p>b. 3</p>
+           <p>c. 1</p>
+           <p>d. 12</p>
+           <input type="text" id="ans7" required />
+           <button type="submit">Next</button>
+         </form>
+         <form class="question none" id="num8">
+           <h3>Q8. 1 + 2 = ?</h3>
+           <p>a. 5</p>
+           <p>b. 3</p>
+           <p>c. 1</p>
+           <p>d. 12</p>
+           <input type="text" id="ans8" required />
+           <button type="submit">Next</button>
+         </form>
+         <form class="question none" id="num9">
+           <h3>Q9. 1 - 2 = ?</h3>
+           <p>a. -5</p>
+           <p>b. 3</p>
+           <p>c. -1</p>
+           <p>d. No answer</p>
+           <input type="text" id="ans9" required />
+           <button type="submit">Next</button>
+         </form>
+         <form class="question none" id="num10">
+           <h3>Q10. 3 + 2 = ?</h3>
+           <p>a. 5</p>
+           <p>b. 3</p>
+           <p>c. 1</p>
+           <p>d. 12</p>
+           <input type="text" id="ans10" required />
+           <button type="submit">Submit</button>
+         </form>
+         <div class="final none" id="final">
+           <p>You have scored <span id="total"></span>/10</p>
+         </div>
+       </div></div>
 
 
          <div class="assigns-page none" id="assigns-page"><button style="background-color:red;">comming soon</button></div>
