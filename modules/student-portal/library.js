@@ -38,7 +38,7 @@ const libraryPageData2 = () => {
             <div class="videos-data">
               <div class="video-tabs">
                  <video width="400" controls>
-                    <source src="mov_bbb.mp4" type="video/mp4">
+                    <source src=".../videos/sample.mp4" type="video/mp4">
                     <source src="mov_bbb.ogg" type="video/ogg">
                     Your browser does not support HTML video.
                  </video>
@@ -46,7 +46,7 @@ const libraryPageData2 = () => {
                  </div>
                  <div class="video-tabs">
                  <video width="400" controls>
-                    <source src="mov_bbb.mp4" type="video/mp4">
+                    <source src="../videos/sample.mp4" type="video/mp4">
                     <source src="mov_bbb.ogg" type="video/ogg">
                     Your browser does not support HTML video.
                   </video>
